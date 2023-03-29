@@ -1,0 +1,37 @@
+[
+  {
+    "id":"1",
+    "name": "Mushfiqur Rahim",
+    "role": "Wicketkeeper-batsman",
+    "price": "100,000",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg"
+  },
+  {
+    "id":"2",
+    "name": "Shakib Al Hasan",
+    "role": "All-rounder",
+    "price": "300,000",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244928/shakib-al-hasan.jpg"
+  },
+  {
+    "id":"3",
+    "name": "Tamim Iqbal",
+    "role": "Opening batsman",
+    "price": "200,000",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg"
+  },
+  {
+    "id":"4",
+    "name": "Mustafizur Rahman",
+    "role": "Left-arm fast-medium bowler",
+    "price": "150,000",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c244924/mustafizur-rahman.jpg"
+  },
+  {
+    "id":"5",
+    "name": "Mahmudullah Riyad",
+    "role": "All-rounder",
+    "price": "80,000",
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg"
+  }
+]
